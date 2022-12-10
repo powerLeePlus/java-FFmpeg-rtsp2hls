@@ -13,6 +13,6 @@ csdn: [https://blog.csdn.net/wenqiangluyao][https://blog.csdn.net/wenqiangluyao]
 # 微信公众号
 欢迎关注，一起成长
 
-<img src="https://user-images.githubusercontent.com/25865085/201046189-b725f69f-cc71-4ae0-836e-72c1f203ddb0.png" alt="" width="500"/>
+![微信公众号二维码](https://user-images.githubusercontent.com/25865085/206827213-25d1093e-df3d-4ce9-81f6-604288c2746a.png)
 
 [https://blog.csdn.net/wenqiangluyao]: https://blog.csdn.net/wenqiangluyao
